@@ -41,7 +41,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/fares-dkhili-018b17303/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square)](https://github.com/DkhiliFares)
-
----
-
-> *“Build smart. Stay curious. Hack ethically.”*
