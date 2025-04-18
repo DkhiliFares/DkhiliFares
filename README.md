@@ -2,7 +2,7 @@
 
 🎓 Embedded Systems & IoT Engineering Student  
 🔌 Passionate about Smart Devices, Linux, Networking & Cybersecurity  
-📍 Tunisia | 📨 dkhili.fares@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/fares-dkhili-018b17303/)
+📍 Tunisia | 📨 dkhili.fares2002@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/fares-dkhili-018b17303/)
 
 ---
 
