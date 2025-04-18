@@ -3,7 +3,7 @@
 **Embedded Systems Engineer | IoT Innovator | Linux & Networking Enthusiast**
 
 📍 Ghardimaou, Tunisia  
-📧 [dkhili.fares@gmail.com](mailto:dkhili.fares@gmail.com)  
+📧 [dkhili.fares@gmail.com](mailto:dkhili.fares2002@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/fares-dkhili-018b17303/) | [GitHub](https://github.com/DkhiliFares)
 
 ---
