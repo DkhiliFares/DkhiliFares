@@ -33,7 +33,7 @@
 ## 🏆 Achievements
 
 - 🥉 3rd Place – Securinet CTF 2025  
-- 📜 Certified – CCNA & NVIDIA Deep Learning Fundamentals
+- 📜 Certified – Cisco CCNA:Introduction to Network & NVIDIA Deep Learning Fundamentals
 
 ---
 
