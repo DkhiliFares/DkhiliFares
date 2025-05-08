@@ -34,7 +34,7 @@
 
 - 🥉 3rd Place – Securinet CTF 2025  
 - 📜 Certified – Cisco CCNA:Introduction to Network & NVIDIA Deep Learning Fundamentals
-
+- 📜 Certified – NVIDIA Deep Learning Fundamentals
 ---
 
 ## 💬 Let's Connect
