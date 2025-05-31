@@ -6,6 +6,9 @@
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DkhiliFares&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DkhiliFares&hide=html,css&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Metrics](https://github.com/DkhiliFares/DkhiliFares/blob/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
+
 ## 🛠️ Tools & Tech I Use
 
 <p align="left">
