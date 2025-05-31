@@ -5,7 +5,7 @@
 📍 Tunisia | 📨 dkhili.fares2002@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/fares-dkhili-018b17303/)
 
 ---
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ## 🛠️ Tools & Tech I Use
 
 <p align="left">
