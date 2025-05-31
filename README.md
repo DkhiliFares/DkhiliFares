@@ -23,7 +23,7 @@
 ---
 
 ## 📌 Projects
-
+- 🔐 [SecureAccess — Smart Access Control & Monitoring System](https://github.com/DkhiliFares/SecureAccess)
 - 🔗 [GPRS Driver for STM32 (SIM808)](https://github.com/DkhiliFares/GPRS-DRIVER)  
 - 🔥 [ESP32 Fire & Gas Detection System](https://github.com/DkhiliFares/FireDetection__esp32)  
 - 🗜️ [Text Compression Tool - Java](https://github.com/DkhiliFares/Codage-D-codage-des-fichiers-textes)
