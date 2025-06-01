@@ -5,9 +5,6 @@
 📍 Tunisia | 📨 dkhili.fares2002@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/fares-dkhili-018b17303/)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DkhiliFares&hide=html,css&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Metrics](https://github.com/DkhiliFares/DkhiliFares/blob/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
-
 ## 🛠️ Tools & Tech I Use
 
 <p align="left">
@@ -31,6 +28,8 @@
 - 🗜️ [Text Compression Tool - Java](https://github.com/DkhiliFares/Codage-D-codage-des-fichiers-textes)
 - 🖧  [Network administration project - eve-ng](https://github.com/DkhiliFares/Network_Administration_Project)
 ---
+[![Dkhili Fares's GitHub stats](https://github-readme-stats.vercel.app/api?username=DkhiliFares&show_icons=true&theme=dark)](https://github.com/DkhiliFares)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DkhiliFares&hide=html,css&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 Achievements
 
