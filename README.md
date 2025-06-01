@@ -32,6 +32,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=DkhiliFares&show_icons=true&theme=dark&hide=rank,prs,issues,contribs" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DkhiliFares&hide=html,css&layout=compact&theme=radical" />
 </div>
+
 ## 🏆 Achievements
 
 - 🥉 3rd Place – Securinet CTF 2025  
