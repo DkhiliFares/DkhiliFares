@@ -28,10 +28,10 @@
 - 🗜️ [Text Compression Tool - Java](https://github.com/DkhiliFares/Codage-D-codage-des-fichiers-textes)
 - 🖧  [Network administration project - eve-ng](https://github.com/DkhiliFares/Network_Administration_Project)
 ---
-| GitHub Stats | Top Languages |
-|--------------|---------------|
-| [![Dkhili Fares's GitHub stats](https://github-readme-stats.vercel.app/api?username=DkhiliFares&show_icons=true&theme=dark&hide=rank,prs,issues,contribs)](https://github.com/DkhiliFares) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DkhiliFares&hide=html,css&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
-
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DkhiliFares&show_icons=true&theme=dark&hide=rank,prs,issues,contribs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DkhiliFares&hide=html,css&layout=compact&theme=radical" />
+</div>
 ## 🏆 Achievements
 
 - 🥉 3rd Place – Securinet CTF 2025  
