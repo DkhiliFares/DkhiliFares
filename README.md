@@ -30,7 +30,7 @@
 ---
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=DkhiliFares&show_icons=true&theme=dark&hide=rank,prs,issues,contribs" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DkhiliFares&hide=html,css&layout=compact&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DkhiliFares&hide=html,css,java,javascript&layout=compact&theme=radical" />
 </div>
 
 ## 🏆 Achievements
