@@ -9,7 +9,7 @@
 
 <p align="left">
 
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,raspberrypi,arduino,qt,github,jenkins,sonarqube" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,stm32,raspberrypi,arduino,qt,github,jenkins,sonarqube,vscode,aws,azure" />
 </p>
 
 ---
