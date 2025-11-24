@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/BeagleBone-000000?style=for-the-badge&logo=beagleboard&logoColor=white" height="30" alt="BeagleBone"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="Qt"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,raspberrypi,arduino,github,jenkins,sonarqube" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,raspberrypi,arduino,Qt,github,jenkins,sonarqube" />
 </p>
 
 ---
