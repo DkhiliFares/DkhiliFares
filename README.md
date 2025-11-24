@@ -8,16 +8,8 @@
 ## 🛠️ Tools & Tech I Use
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="Raspberry Pi"/>
-  <img src="https://img.shields.io/badge/BeagleBone-000000?style=for-the-badge&logo=beagleboard&logoColor=white" height="30" alt="BeagleBone"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="Qt"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,raspberrypi,arduino,Qt,github,jenkins,sonarqube" />
+
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,raspberrypi,arduino,qt,github,jenkins,sonarqube" />
 </p>
 
 ---
