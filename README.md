@@ -11,7 +11,7 @@
 
 ### Programming & Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,vhdl,bash,qt,flask" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash,qt,flask" />
 </p>
 
 ### Embedded & IoT Systems
@@ -24,7 +24,6 @@
 
 ### FPGA & Hardware Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vhdl" />
   <img src="https://img.shields.io/badge/Quartus_Prime-FF6F00?style=for-the-badge&logo=intel&logoColor=white" height="30" alt="Quartus"/>
   <img src="https://img.shields.io/badge/ModelSim-007ACC?style=for-the-badge&logo=intel&logoColor=white" height="30" alt="ModelSim"/>
   <img src="https://img.shields.io/badge/ARM_Cortex-0091BD?style=for-the-badge&logo=arm&logoColor=white" height="30" alt="ARM Cortex"/>
