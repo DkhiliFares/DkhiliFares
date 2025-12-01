@@ -56,7 +56,7 @@
 - 🔥 [ESP32 Fire & Gas Detection System](https://github.com/DkhiliFares/FireDetection__esp32)  
 - 🗜️ [Text Compression Tool - Java](https://github.com/DkhiliFares/Codage-D-codage-des-fichiers-textes)
 - 🖧  [Network administration project - eve-ng](https://github.com/DkhiliFares/Network_Administration_Project)
-- [Embedded-linux-Cross-Compilation](https://github.com/DkhiliFares/Embedded-linux-cross-compilation)
+- 🐧 [Embedded-linux-Cross-Compilation](https://github.com/DkhiliFares/Embedded-linux-cross-compilation)
 ---
 
 
