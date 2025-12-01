@@ -5,7 +5,11 @@
 📍 Tunisia | 📨 dkhili.fares2002@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/fares-dkhili-018b17303/)
 
 ---
-## 🛠️ Tools & Tech I Use
+## Statistics:
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DkhiliFares&show_icons=true&theme=dark&hide=rank,prs,issues,contribs&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DkhiliFares&hide=html,css,java,javascript&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
+</div>
 
 ## 🛠️ Technologies & Platforms
 
@@ -59,10 +63,7 @@
 - 🖧  [Network administration project - eve-ng](https://github.com/DkhiliFares/Network_Administration_Project)
 ---
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DkhiliFares&show_icons=true&theme=dark&hide=rank,prs,issues,contribs&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DkhiliFares&hide=html,css,java,javascript&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
-</div>
+
 
 ## 🏆 Achievements
 
