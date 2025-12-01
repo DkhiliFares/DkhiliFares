@@ -7,8 +7,8 @@
 ---
 ## Statistics:
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DkhiliFares&show_icons=true&theme=dark&hide=rank,prs,issues,contribs&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DkhiliFares&hide=html,css,java,javascript&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DkhiliFares&show_icons=true&theme=dark&hide=rank,prs,issues,contribs&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DkhiliFares&hide=html,css,java,javascript&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ## 🛠️ Technologies & Platforms
