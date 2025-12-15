@@ -51,13 +51,14 @@
 ---
 
 ## 📌 Projects
-- 🔐 [SecureAccess — Smart Access Control & Monitoring System](https://github.com/DkhiliFares/SecureAccess)
-- 🔗 [GPRS Driver for STM32 (SIM808)](https://github.com/DkhiliFares/GPRS-DRIVER)  
-- 🔥 [ESP32 Fire & Gas Detection System](https://github.com/DkhiliFares/FireDetection__esp32)  
-- 🗜️ [Text Compression Tool - Java](https://github.com/DkhiliFares/Codage-D-codage-des-fichiers-textes)
-- 🖧  [Network administration project - eve-ng](https://github.com/DkhiliFares/Network_Administration_Project)
+- 🔐 [SecureAccess — Smart Access Control & Monitoring System](https://github.com/DkhiliFares/SecureAccess) 
 - 🐧 [Embedded-linux-Cross-Compilation](https://github.com/DkhiliFares/Embedded-linux-cross-compilation)
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/3fd50343-ec96-4390-96b4-89f873e49103" /> [AzureLoRaHub - Complete LoRaWAN Network Setup Guide](https://github.com/DkhiliFares/AzureLoRaHub)
+- 🔗 [GPRS Driver for STM32 (SIM808)](https://github.com/DkhiliFares/GPRS-DRIVER)
+- 🖧  [Network administration project - eve-ng](https://github.com/DkhiliFares/Network_Administration_Project)
+- 🔥 [ESP32 Fire & Gas Detection System](https://github.com/DkhiliFares/FireDetection__esp32)
+- 🗜️ [Text Compression Tool - Java](https://github.com/DkhiliFares/Codage-D-codage-des-fichiers-textes)
+
 --- 
 
 
