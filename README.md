@@ -57,7 +57,9 @@
 - 🗜️ [Text Compression Tool - Java](https://github.com/DkhiliFares/Codage-D-codage-des-fichiers-textes)
 - 🖧  [Network administration project - eve-ng](https://github.com/DkhiliFares/Network_Administration_Project)
 - 🐧 [Embedded-linux-Cross-Compilation](https://github.com/DkhiliFares/Embedded-linux-cross-compilation)
----
+-     <img width="37" height="37" alt="image" src="https://github.com/user-attachments/assets/3fd50343-ec96-4390-96b4-89f873e49103" />
+[AzureLoRaHub - Complete LoRaWAN Network Setup Guide](https://github.com/DkhiliFares/AzureLoRaHub)
+--- 
 
 
 
